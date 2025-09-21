@@ -1,5 +1,5 @@
 # V-space
-this is a website that gives you high quality wallpaper its currenting in the building page
+this is a website that gives you high quality wallpaper its currenting in the building faze
 currently working on the login and signin page 
 *I uesd chatgpt to build me a framework
  so i inputed the value that i needed **probably going to work on flex and max width going learn and also spacing and different 
